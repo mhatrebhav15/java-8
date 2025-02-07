@@ -1,9 +1,7 @@
-package stream;
+package stream.medium;
 
 /**
- * 
- * Count the number of vowels in a given string
- * 
+ * Count the number of vowels in a given string.
  */
 public class VowelCount {
 
