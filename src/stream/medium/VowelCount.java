@@ -15,7 +15,7 @@ public class VowelCount {
 	public static void main(String[] args) {
 		String input = "I am going to be King of the Pirates";
 		long vowelCount = countVowels(input);
-		System.out.println("Number of vowels: " + vowelCount);
+		System.out.println("Number of vowels : " + vowelCount);
 	}
 
 }
