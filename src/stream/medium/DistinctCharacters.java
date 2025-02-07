@@ -18,7 +18,7 @@ public class DistinctCharacters {
 	public static void main(String[] args) {
 		String input = "Java 8 Stream API";
 		List<Character> distinctChars = getDistinctCharacters(input);
-		System.out.println("Distinct characters : " + distinctChars);
+		System.out.println("Distinct Characters : " + distinctChars);
 	}
 
 }
