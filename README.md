@@ -2,7 +2,7 @@
 
 This repository contains a curated list of Java 8 Interview Questions along with detailed solutions.
 
-Easy 
+[Easy](https://github.com/mhatrebhav15/java-8/tree/main/src/stream/easy)
 - Convert a list of integers to a list of their squares. [Solution](https://github.com/mhatrebhav15/java-8/blob/main/src/stream/easy/ConvertToUppercase.java)
 - Filter even numbers from a list.
 - Find the first element greater than 10.
@@ -10,7 +10,7 @@ Easy
 - Convert a list of strings to uppercase.
 
 
-Medium
+[Medium](https://github.com/mhatrebhav15/java-8/tree/main/src/stream/medium)
 
 - Program to find distinct characters in a string
 - Count the number of vowels in a given string.
