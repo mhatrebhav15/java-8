@@ -1,12 +1,10 @@
-package stream;
+package stream.medium;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * 
- * Program to find distinct characters in a string
- * 
+ * Program to find distinct characters in a string.
  */
 public class DistinctCharacters {
 
@@ -20,7 +18,7 @@ public class DistinctCharacters {
 	public static void main(String[] args) {
 		String input = "Java 8 Stream API";
 		List<Character> distinctChars = getDistinctCharacters(input);
-		System.out.println("Distinct characters: " + distinctChars);
+		System.out.println("Distinct characters : " + distinctChars);
 	}
 
 }
